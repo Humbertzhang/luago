@@ -1,2 +1,6 @@
+# 忽略luago文件
 luago
+# 不忽略luago文件夹下文件
 !luago/
+# 忽略.idea文件夹下文件
+.idea/
